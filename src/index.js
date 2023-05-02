@@ -7,11 +7,38 @@
  *
  * Learn more at https://developers.cloudflare.com/workers/
  */
+const Fuse = require("fuse.js");
+
+const db = require("../db.json");
+
+const fuse = new Fuse(db.items, {
+  includedScore: true,
+  keys: ["name", "aliases"],
+});
+
+const invalidSearch = `<html>
+<head>
+  <title>FZFShip</title>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="">
+  <meta property="og:title" content="FZFShip">
+  <meta property="og:description" content="Invalid search.">
+</head>
+</html>`;
 
 export default {
   async fetch(request, env, ctx) {
-    return fetch(
-      "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/React%20in%20100%20Seconds%20%5BTn6-PIqc4UM%5D.webm"
-    );
+    let search = decodeURIComponent(new URL(request.url).pathname.slice(1));
+    let items = fuse.search(search);
+    if (items.length == 0) {
+      return new Response(invalidSearch, {
+        headers: {
+          "content-type": "text/html; charset=UTF-8",
+        },
+      });
+    }
+    let item = items[0];
+    return fetch(item.item.url);
   },
 };
