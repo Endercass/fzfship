@@ -10,6 +10,8 @@
 
 export default {
   async fetch(request, env, ctx) {
-    return new Response("Hello, World!");
+    return fetch(
+      "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/React%20in%20100%20Seconds%20%5BTn6-PIqc4UM%5D.webm"
+    );
   },
 };
