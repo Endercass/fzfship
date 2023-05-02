@@ -1,14 +1,24 @@
 {
   "items": [
     {
-      "name": "reactjs",
-      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/React%20in%20100%20Seconds%20%5BTn6-PIqc4UM%5D.webm",
-      "aliases": ["react"]
-    },
-    {
       "name": "angularjs",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/Angular%20in%20100%20Seconds%20%5BAta9cSC2WpM%5D.webm",
       "aliases": ["angular"]
+    },
+    {
+      "name": "array map",
+      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/Array%20Map%20in%20100%20Seconds%20%5BDC471a9qrU4%5D.webm",
+      "aliases": ["arraymap", "array-map"]
+    },
+    {
+      "name": "array reduce",
+      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/Array%20Reduce%20in%20100%20seconds%20%5BtVCYa_bnITg%5D.webm",
+      "aliases": ["arrayreduce", "array-reduce"]
+    },
+    {
+      "name": "reactjs",
+      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/React%20in%20100%20Seconds%20%5BTn6-PIqc4UM%5D.webm",
+      "aliases": ["react"]
     }
   ]
 }
