@@ -1,9 +1,24 @@
 {
   "items": [
     {
+      "name": "amazon web services",
+      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/AWS%20for%20the%20Haters%20in%20100%20Seconds%20%5BZzI9JE0i6Lc%5D.webm",
+      "aliases": ["aws", "amazon-web-services"]
+    },
+    {
       "name": "angularjs",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/Angular%20in%20100%20Seconds%20%5BAta9cSC2WpM%5D.webm",
       "aliases": ["angular"]
+    },
+    {
+      "name": "ansible",
+      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/Ansible%20in%20100%20Seconds%20%5BxRMPKQweySE%5D.webm",
+      "aliases": []
+    },
+    {
+      "name": "arduino",
+      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/Arduino%20in%20100%20Seconds%20%5B1ENiVwk8idM%5D.webm",
+      "aliases": []
     },
     {
       "name": "array map",
