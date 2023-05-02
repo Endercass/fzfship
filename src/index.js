@@ -30,7 +30,7 @@ const invalidSearch = `<html>
 export default {
   async fetch(request, env, ctx) {
     let search = decodeURIComponent(new URL(request.url).pathname.slice(1));
-    if ((search = "db.json")) {
+    if (search == "db.json") {
       return new Response(JSON.stringify(db), {
         headers: { "content-type": "application/json; charset=UTF-8" },
       });
