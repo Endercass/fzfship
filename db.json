@@ -16,6 +16,16 @@
       "aliases": ["arrayreduce", "array-reduce"]
     },
     {
+      "name": "bash",
+      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/Bash%20in%20100%20Seconds%20%5BI4EWvMFj37g%5D.webm",
+      "aliases": ["bourne again shell", "bourne-again-shell"]
+    },
+    {
+      "name": "beyond console log",
+      "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/Beyond%20Console%20Log%20in%20100%20Seconds%20%5BL8CDt1J3DAw%5D.webm",
+      "aliases": ["bcl", "b-c-l", "beyond-console-log", "beyondconsolelog"]
+    },
+    {
       "name": "reactjs",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/React%20in%20100%20Seconds%20%5BTn6-PIqc4UM%5D.webm",
       "aliases": ["react"]
