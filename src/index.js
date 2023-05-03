@@ -30,20 +30,26 @@ const invalidSearch = `<html>
 export default {
   async fetch(request, env, ctx) {
     let search = decodeURIComponent(new URL(request.url).pathname.slice(1));
-    if (search == "db.json") {
-      return new Response(JSON.stringify(db), {
-        headers: { "content-type": "application/json; charset=UTF-8" },
-      });
+    switch (search) {
+      case "gh":
+      case "github":
+        return Response.redirect("https://github.com/Endercass/fzfship", 301);
+      case "db":
+      case "db.json":
+        return new Response(JSON.stringify(db), {
+          headers: { "content-type": "application/json; charset=UTF-8" },
+        });
+      default:
+        let items = fuse.search(search);
+        if (items.length == 0) {
+          return new Response(invalidSearch, {
+            headers: {
+              "content-type": "text/html; charset=UTF-8",
+            },
+          });
+        }
+        let item = items[0];
+        return fetch(item.item.url);
     }
-    let items = fuse.search(search);
-    if (items.length == 0) {
-      return new Response(invalidSearch, {
-        headers: {
-          "content-type": "text/html; charset=UTF-8",
-        },
-      });
-    }
-    let item = items[0];
-    return fetch(item.item.url);
   },
 };
