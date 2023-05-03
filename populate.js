@@ -1,3 +1,5 @@
+const fs = require("fs");
+
 let db = {
   items: [],
 };
@@ -22,5 +24,5 @@ fetch(base)
     data.objects.map((val, i, arr) => {
       db.items.push(buildItem(val));
     });
-    console.log(JSON.stringify(db, null, 2));
+    fs.writeFileSync(`${__dirname}/db.json`, JSON.stringify(db, null, 2));
   });
