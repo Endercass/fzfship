@@ -1,10 +1,10 @@
 # FZFShip
 
 Cloudflare Worker that provides a fuzzy finder for fireship 100-seconds videos
+
 ## Authors
 
 - [@Endercass](https://www.github.com/Endercass)
-
 
 ## API Reference
 
@@ -19,6 +19,7 @@ Cloudflare Worker that provides a fuzzy finder for fireship 100-seconds videos
 | `search`  | `string` | **Required**. The video you want to find |
 
 Responds with a webm video or an empty html file if nothing can be found
+
 ## Run Locally
 
 Clone the project
@@ -45,22 +46,22 @@ Start the local wrangler server
   npx wrangler dev --local
 ```
 
-
 ## Deployment
 
 To deploy this worker run
 
 ```bash
-  # This assumes you already have wrangler set up with your credentials 
-  npx wrangler publish src/index.js --name fzfship 
+  # This assumes you already have wrangler set up with your credentials
+  npx wrangler publish src/index.js --name fzfship
 ```
 
 ## Roadmap
 
-- Add all 100-seconds videos
+- [x] Add all 100-seconds videos
 
-- Add homepage with example
+- [ ] Add more aliases to ensure proper results
 
+- [ ] Add homepage with example
 
 ## Appendix
 
