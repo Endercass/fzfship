@@ -7,14 +7,20 @@ const base =
 
 function buildItem(url) {
   let item = {};
-  item.name = url.name.split(" ")[0].toLowerCase();
+  let hasSpaces = url.name.indexOf(" ") >= 0;
+  item.name = url.name.split(".")[0];
   item.url = `${base}${encodeURIComponent(url.name)}`;
   item.aliases = [];
+  if (hasSpaces) {
+    item.aliases.push(item.name.replace(/\s+/g, "-"));
+  }
   return item;
 }
 fetch(base)
   .then((res) => res.json())
   .then((data) => {
-    db.items.push(buildItem(data.objects[0]));
+    data.objects.map((val, i, arr) => {
+      db.items.push(buildItem(val));
+    });
     console.log(JSON.stringify(db, null, 2));
   });
