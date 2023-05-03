@@ -3,9 +3,7 @@
     {
       "name": "amazon web services",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/amazon%20web%20services.webm",
-      "aliases": [
-        "amazon-web-services"
-      ]
+      "aliases": ["amazon-web-services"]
     },
     {
       "name": "angularjs",
@@ -20,9 +18,7 @@
     {
       "name": "apple signin",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/apple%20signin.webm",
-      "aliases": [
-        "apple-signin"
-      ]
+      "aliases": ["apple-signin"]
     },
     {
       "name": "arduino",
@@ -32,23 +28,17 @@
     {
       "name": "array map",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/array%20map.webm",
-      "aliases": [
-        "array-map"
-      ]
+      "aliases": ["array-map"]
     },
     {
       "name": "array reduce",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/array%20reduce.webm",
-      "aliases": [
-        "array-reduce"
-      ]
+      "aliases": ["array-reduce"]
     },
     {
       "name": "assembly language",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/assembly%20language.webm",
-      "aliases": [
-        "assembly-language"
-      ]
+      "aliases": ["assembly-language"]
     },
     {
       "name": "astro",
@@ -68,23 +58,17 @@
     {
       "name": "beyond console log",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/beyond%20console%20log.webm",
-      "aliases": [
-        "beyond-console-log"
-      ]
+      "aliases": ["beyond-console-log"]
     },
     {
       "name": "big-o notation",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/big-o%20notation.webm",
-      "aliases": [
-        "big-o-notation"
-      ]
+      "aliases": ["big-o-notation"]
     },
     {
       "name": "binary search algorithm",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/binary%20search%20algorithm.webm",
-      "aliases": [
-        "binary-search-algorithm"
-      ]
+      "aliases": ["binary-search-algorithm"]
     },
     {
       "name": "binary",
@@ -109,9 +93,7 @@
     {
       "name": "c plus plus",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/c%20plus%20plus.webm",
-      "aliases": [
-        "c-plus-plus"
-      ]
+      "aliases": ["c-plus-plus"]
     },
     {
       "name": "c",
@@ -136,16 +118,12 @@
     {
       "name": "computer networking",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/computer%20networking.webm",
-      "aliases": [
-        "computer-networking"
-      ]
+      "aliases": ["computer-networking"]
     },
     {
       "name": "content platforms explained",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/content%20platforms%20explained.webm",
-      "aliases": [
-        "content-platforms-explained"
-      ]
+      "aliases": ["content-platforms-explained"]
     },
     {
       "name": "cpu",
@@ -155,9 +133,7 @@
     {
       "name": "cross origin resource sharing",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/cross%20origin%20resource%20sharing.webm",
-      "aliases": [
-        "cross-origin-resource-sharing"
-      ]
+      "aliases": ["cross-origin-resource-sharing"]
     },
     {
       "name": "csharp",
@@ -167,44 +143,32 @@
     {
       "name": "css animation",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/css%20animation.webm",
-      "aliases": [
-        "css-animation"
-      ]
+      "aliases": ["css-animation"]
     },
     {
       "name": "css flexbox",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/css%20flexbox.webm",
-      "aliases": [
-        "css-flexbox"
-      ]
+      "aliases": ["css-flexbox"]
     },
     {
       "name": "css grid",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/css%20grid.webm",
-      "aliases": [
-        "css-grid"
-      ]
+      "aliases": ["css-grid"]
     },
     {
       "name": "css pseudo classes",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/css%20pseudo%20classes.webm",
-      "aliases": [
-        "css-pseudo-classes"
-      ]
+      "aliases": ["css-pseudo-classes"]
     },
     {
       "name": "css pseudo elements",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/css%20pseudo%20elements.webm",
-      "aliases": [
-        "css-pseudo-elements"
-      ]
+      "aliases": ["css-pseudo-elements"]
     },
     {
       "name": "css variables",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/css%20variables.webm",
-      "aliases": [
-        "css-variables"
-      ]
+      "aliases": ["css-variables"]
     },
     {
       "name": "css",
@@ -234,23 +198,17 @@
     {
       "name": "devops ci-cd",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/devops%20ci-cd.webm",
-      "aliases": [
-        "devops-ci-cd"
-      ]
+      "aliases": ["devops-ci-cd"]
     },
     {
       "name": "dgraph graph database",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/dgraph%20graph%20database.webm",
-      "aliases": [
-        "dgraph-graph-database"
-      ]
+      "aliases": ["dgraph-graph-database"]
     },
     {
       "name": "dns explained",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/dns%20explained.webm",
-      "aliases": [
-        "dns-explained"
-      ]
+      "aliases": ["dns-explained"]
     },
     {
       "name": "docker",
@@ -265,9 +223,7 @@
     {
       "name": "electron js",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/electron%20js.webm",
-      "aliases": [
-        "electron-js"
-      ]
+      "aliases": ["electron-js"]
     },
     {
       "name": "elixir",
@@ -277,9 +233,7 @@
     {
       "name": "ethical hacking",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/ethical%20hacking.webm",
-      "aliases": [
-        "ethical-hacking"
-      ]
+      "aliases": ["ethical-hacking"]
     },
     {
       "name": "ffmpeg",
@@ -289,9 +243,7 @@
     {
       "name": "firebase security",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/firebase%20security.webm",
-      "aliases": [
-        "firebase-security"
-      ]
+      "aliases": ["firebase-security"]
     },
     {
       "name": "firebase",
@@ -316,9 +268,7 @@
     {
       "name": "github pull request",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/github%20pull%20request.webm",
-      "aliases": [
-        "github-pull-request"
-      ]
+      "aliases": ["github-pull-request"]
     },
     {
       "name": "go",
@@ -333,30 +283,22 @@
     {
       "name": "graph search algorithms",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/graph%20search%20algorithms.webm",
-      "aliases": [
-        "graph-search-algorithms"
-      ]
+      "aliases": ["graph-search-algorithms"]
     },
     {
       "name": "graphql explained",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/graphql%20explained.webm",
-      "aliases": [
-        "graphql-explained"
-      ]
+      "aliases": ["graphql-explained"]
     },
     {
       "name": "gun decentralized graph database",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/gun%20decentralized%20graph%20database.webm",
-      "aliases": [
-        "gun-decentralized-graph-database"
-      ]
+      "aliases": ["gun-decentralized-graph-database"]
     },
     {
       "name": "gzip file compression",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/gzip%20file%20compression.webm",
-      "aliases": [
-        "gzip-file-compression"
-      ]
+      "aliases": ["gzip-file-compression"]
     },
     {
       "name": "haskell",
@@ -381,9 +323,7 @@
     {
       "name": "java haters",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/java%20haters.webm",
-      "aliases": [
-        "java-haters"
-      ]
+      "aliases": ["java-haters"]
     },
     {
       "name": "java",
@@ -393,16 +333,12 @@
     {
       "name": "javascript modules",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/javascript%20modules.webm",
-      "aliases": [
-        "javascript-modules"
-      ]
+      "aliases": ["javascript-modules"]
     },
     {
       "name": "javascript this",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/javascript%20this.webm",
-      "aliases": [
-        "javascript-this"
-      ]
+      "aliases": ["javascript-this"]
     },
     {
       "name": "javascript",
@@ -417,9 +353,7 @@
     {
       "name": "js destructuring",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/js%20destructuring.webm",
-      "aliases": [
-        "js-destructuring"
-      ]
+      "aliases": ["js-destructuring"]
     },
     {
       "name": "julia",
@@ -449,9 +383,7 @@
     {
       "name": "linux directories",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/linux%20directories.webm",
-      "aliases": [
-        "linux-directories"
-      ]
+      "aliases": ["linux-directories"]
     },
     {
       "name": "linux",
@@ -476,16 +408,12 @@
     {
       "name": "machine learning",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/machine%20learning.webm",
-      "aliases": [
-        "machine-learning"
-      ]
+      "aliases": ["machine-learning"]
     },
     {
       "name": "million subscribers",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/million%20subscribers.webm",
-      "aliases": [
-        "million-subscribers"
-      ]
+      "aliases": ["million-subscribers"]
     },
     {
       "name": "mongodb",
@@ -550,9 +478,7 @@
     {
       "name": "progressive web apps",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/progressive%20web%20apps.webm",
-      "aliases": [
-        "progressive-web-apps"
-      ]
+      "aliases": ["progressive-web-apps"]
     },
     {
       "name": "python",
@@ -567,30 +493,22 @@
     {
       "name": "raspberry pi",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/raspberry%20pi.webm",
-      "aliases": [
-        "raspberry-pi"
-      ]
+      "aliases": ["raspberry-pi"]
     },
     {
       "name": "react haters",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/react%20haters.webm",
-      "aliases": [
-        "react-haters"
-      ]
+      "aliases": ["react-haters"]
     },
     {
       "name": "react native",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/react%20native.webm",
-      "aliases": [
-        "react-native"
-      ]
+      "aliases": ["react-native"]
     },
     {
       "name": "react query",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/react%20query.webm",
-      "aliases": [
-        "react-query"
-      ]
+      "aliases": ["react-query"]
     },
     {
       "name": "react",
@@ -625,9 +543,7 @@
     {
       "name": "rest api",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/rest%20api.webm",
-      "aliases": [
-        "rest-api"
-      ]
+      "aliases": ["rest-api"]
     },
     {
       "name": "ruby",
@@ -657,16 +573,12 @@
     {
       "name": "sessions vs tokens",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/sessions%20vs%20tokens.webm",
-      "aliases": [
-        "sessions-vs-tokens"
-      ]
+      "aliases": ["sessions-vs-tokens"]
     },
     {
       "name": "software testing",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/software%20testing.webm",
-      "aliases": [
-        "software-testing"
-      ]
+      "aliases": ["software-testing"]
     },
     {
       "name": "solid",
@@ -686,9 +598,7 @@
     {
       "name": "stripe payment",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/stripe%20payment.webm",
-      "aliases": [
-        "stripe-payment"
-      ]
+      "aliases": ["stripe-payment"]
     },
     {
       "name": "supabase",
@@ -778,9 +688,7 @@
     {
       "name": "web assembly",
       "url": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/idnlbof7ef1t/b/100seconds/o/web%20assembly.webm",
-      "aliases": [
-        "web-assembly"
-      ]
+      "aliases": ["web-assembly", "wasm"]
     },
     {
       "name": "webgl",
